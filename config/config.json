@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "emilia",
+    "password": "postgres",
+    "database": "kumparan",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "emilia",
+    "password": "postgres",
+    "database": "kumparan_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "emilia",
+    "password": "postgres",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
